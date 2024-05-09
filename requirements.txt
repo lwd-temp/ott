@@ -60,7 +60,7 @@ soupsieve==2.5
 stanza==1.1.1
 sympy==1.12
 torch==2.1.2
-tqdm==4.66.1
+tqdm==4.66.3
 translatehtml==1.5.2
 typing_extensions==4.9.0
 tzdata==2023.4
